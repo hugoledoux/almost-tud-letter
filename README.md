@@ -47,3 +47,5 @@ Best regards,
 Dr Jan Smit \
 Head of an important department
 ```
+## How it looks
+![thumbnail](thumbnail.png)
